@@ -38,3 +38,7 @@ spec:
 # kubectl get deployments
 # kubectl get services
 # kubectl delete -f docker-node-kubernetes.yaml
+
+# kubectl get pods
+# kubectl get services
+# kubectl get deployments
